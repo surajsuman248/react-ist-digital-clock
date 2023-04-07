@@ -25,4 +25,4 @@ function App() {
 
 ## License
 
-MIT © [Suraj](https://github.com/Suraj)
+MIT © [Suraj Suman](https://github.com/surajsuman248)
