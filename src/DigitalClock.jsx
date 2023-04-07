@@ -10,7 +10,7 @@ function DigitalClock() {
         setTime(currentTime);
     }
     return (
-        <div style={{ backgroundColor: "#2388B8" }}>
+        <div style={{ backgroundColor: "yellowgreen" }}>
             <h3>Date & Time: {time}</h3>
         </div >
     )
